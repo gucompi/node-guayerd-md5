@@ -1,0 +1,17 @@
+{
+  "name": "clase-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "hello": "node hello-world.js",
+    "md5": "node md5_run.js"
+  },
+  "author": "Gustavo",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "reverse-md5": "0.0.4"
+  }
+}
